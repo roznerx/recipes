@@ -1,0 +1,66 @@
+/* ST 1-Bit Endgame Palette Created by Skiller Thomson
+palette-violet: #1b1233;
+palette-yellow: #dcf29d;
+*/
+
+html {
+    position: relative;
+    min-width: 1024px;
+    min-height: 768px;
+    height: 100%;
+}
+
+body {
+    background-color: #dcf29d;
+    font-family: 'Courier New', monospace;
+}
+
+.title {
+    font-size: 64px;
+    margin-left: 32%;
+    color:#dcf29d;
+    -webkit-text-stroke: 3px #1b1233;
+}
+
+.recipe {
+    font-size: 32px;
+    margin-left: 32%;
+}
+
+img {
+    margin-left: 26%;
+    border: 5px solid #1b1233;
+}
+
+#recipe-info {
+    margin-left: 15%;
+    font-size: 18px;
+}
+
+#ingredientes-and-steps {
+    display: inline-block;
+}
+
+h4 {
+    display: inline-block;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+    color:#dcf29d;
+    -webkit-text-stroke: 2px #1b1233;
+}
+
+.recipe-part {
+    margin-left: 2%;
+}
+
+li {
+    font-size: 18px;
+}
+
+#description-text {
+    width: fit-content;
+    height: auto;
+}
